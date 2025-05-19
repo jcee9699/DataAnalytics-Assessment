@@ -62,8 +62,6 @@ Estimate CLV using transaction history and tenure, based on a given formula.
 - Used 0.1% of the total value (converted to naira) as average profit per transaction.
 - Plugged everything into the provided CLV formula and sorted results by CLV.
 
-**A small challenge:**  
-Some customers had short or inactive accounts, so I made sure to exclude those with zero tenure to avoid divide-by-zero errors.
 
 
 
